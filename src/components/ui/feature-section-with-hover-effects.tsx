@@ -68,7 +68,7 @@ export function FeaturesSectionWithHoverEffects() {
       </div>
       <div className="w-full flex justify-center mt-10">
         <Button asChild className="px-8 py-4 text-lg" style={{ background: 'red', color: 'white', zIndex: 1000 }}>
-          <a href="/signup" style={{ color: 'white', fontWeight: 'bold' }}>Start Now</a>
+          <a href="/sign-in" style={{ color: 'white', fontWeight: 'bold' }}>Start Now</a>
         </Button>
       </div>
     </>
